@@ -5,9 +5,9 @@ Landing page created with: SASS and Bootstrap.
 ```
 
 ### Table of contents
-* [General info]
-* [Technologies]
-* [Sources]
+* General info
+* Technologies
+* Sources
 
 #### Gereral info 
 Project portfolio is made on the basic of project design. It is simple page with form and contact details.
