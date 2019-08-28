@@ -10,11 +10,12 @@ Landing page created with: SASS and Bootstrap.
 * Sources
 
 #### Gereral info 
-Project portfolio is made on the basic of project design. It is simple page with form and contact details.
+Project is made on the basic of project design. It is simple page with form and contact details.
 
 #### Technologies
 Project is created with:
 * SASS
+* Gird RWD
 * Bootstrap 4.3
 * Gulp
 * Node.js 10.16.3
